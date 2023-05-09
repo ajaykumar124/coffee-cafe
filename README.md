@@ -1,7 +1,7 @@
+# ms-frt-project
 
-#ms-frt-project 
+#coffee-cafe-website 
 
-#coffee-cafe-website
 
 this project is deployed on microsoft azure
 
