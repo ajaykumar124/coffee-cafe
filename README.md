@@ -10,4 +10,8 @@ this project is deployed on microsoft azure
 
 #This website uses the technologies like html,css and javascript along with some microsoft azure services like ms azure static web app and ms azure chatbot
 
-![image](https://github.com/ajaykumar124/coffee-cafe/assets/76223699/4ea8510f-4f1c-424c-be7a-c3ce7a0edef7)
+
+![Uploading image.png…]()
+
+
+
