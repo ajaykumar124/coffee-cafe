@@ -26,7 +26,8 @@ this project is deployed on microsoft azure
 ##It have an integrated chatbot whith is that can help you to answer your simple questions
 
 #just click on chat with us and then a chat section will be opened
-![image](https://github.com/ajaykumar124/coffee-cafe/assets/76223699/0ce0ee32-22a2-4d29-96f7-1a610e061c94)
+![image](https://github.com/ajaykumar124/coffee-cafe/assets/76223699/92d33e24-76c9-476e-a31f-97d73f843e63)
+
 
 #and it have alot more to explore hope you like it and give a star this repo XD
 
