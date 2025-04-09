@@ -5,12 +5,11 @@
 
 this project is deployed on microsoft azure
 
-(ms azure) live link- https://purple-forest-0a553ab10.3.azurestaticapps.net/
+(ms azure) live link- https://purple-forest-0a553ab10.3.azurestaticapps.net/ (Currently inactive)
 
 (Youtube Demo) link- https://youtu.be/SgMT0I1hDA8?si=zfzM6N0dnjsdJjK7
 
-
-(github) live link - ajaykumar124.github.io/coffee-cafe/
+(github) live link- ajaykumar124.github.io/coffee-cafe/ 
 
 
 
